@@ -1,0 +1,1442 @@
+[
+  {
+    "target_id": 1,
+    "month": "2024-01",
+    "branch_id": 1,
+    "target_revenue": 145300
+  },
+  {
+    "target_id": 2,
+    "month": "2024-02",
+    "branch_id": 1,
+    "target_revenue": 153400
+  },
+  {
+    "target_id": 3,
+    "month": "2024-03",
+    "branch_id": 1,
+    "target_revenue": 152700
+  },
+  {
+    "target_id": 4,
+    "month": "2024-04",
+    "branch_id": 1,
+    "target_revenue": 161700
+  },
+  {
+    "target_id": 5,
+    "month": "2024-05",
+    "branch_id": 1,
+    "target_revenue": 178300
+  },
+  {
+    "target_id": 6,
+    "month": "2024-06",
+    "branch_id": 1,
+    "target_revenue": 149000
+  },
+  {
+    "target_id": 7,
+    "month": "2024-07",
+    "branch_id": 1,
+    "target_revenue": 165700
+  },
+  {
+    "target_id": 8,
+    "month": "2024-08",
+    "branch_id": 1,
+    "target_revenue": 168200
+  },
+  {
+    "target_id": 9,
+    "month": "2024-09",
+    "branch_id": 1,
+    "target_revenue": 170000
+  },
+  {
+    "target_id": 10,
+    "month": "2024-10",
+    "branch_id": 1,
+    "target_revenue": 204200
+  },
+  {
+    "target_id": 11,
+    "month": "2024-11",
+    "branch_id": 1,
+    "target_revenue": 216000
+  },
+  {
+    "target_id": 12,
+    "month": "2024-12",
+    "branch_id": 1,
+    "target_revenue": 292700
+  },
+  {
+    "target_id": 13,
+    "month": "2025-01",
+    "branch_id": 1,
+    "target_revenue": 154600
+  },
+  {
+    "target_id": 14,
+    "month": "2025-02",
+    "branch_id": 1,
+    "target_revenue": 159400
+  },
+  {
+    "target_id": 15,
+    "month": "2025-03",
+    "branch_id": 1,
+    "target_revenue": 175600
+  },
+  {
+    "target_id": 16,
+    "month": "2025-04",
+    "branch_id": 1,
+    "target_revenue": 188500
+  },
+  {
+    "target_id": 17,
+    "month": "2025-05",
+    "branch_id": 1,
+    "target_revenue": 205300
+  },
+  {
+    "target_id": 18,
+    "month": "2025-06",
+    "branch_id": 1,
+    "target_revenue": 205500
+  },
+  {
+    "target_id": 19,
+    "month": "2025-07",
+    "branch_id": 1,
+    "target_revenue": 172100
+  },
+  {
+    "target_id": 20,
+    "month": "2025-08",
+    "branch_id": 1,
+    "target_revenue": 200400
+  },
+  {
+    "target_id": 21,
+    "month": "2025-09",
+    "branch_id": 1,
+    "target_revenue": 231900
+  },
+  {
+    "target_id": 22,
+    "month": "2025-10",
+    "branch_id": 1,
+    "target_revenue": 227300
+  },
+  {
+    "target_id": 23,
+    "month": "2025-11",
+    "branch_id": 1,
+    "target_revenue": 255700
+  },
+  {
+    "target_id": 24,
+    "month": "2025-12",
+    "branch_id": 1,
+    "target_revenue": 304500
+  },
+  {
+    "target_id": 25,
+    "month": "2024-01",
+    "branch_id": 2,
+    "target_revenue": 217300
+  },
+  {
+    "target_id": 26,
+    "month": "2024-02",
+    "branch_id": 2,
+    "target_revenue": 238400
+  },
+  {
+    "target_id": 27,
+    "month": "2024-03",
+    "branch_id": 2,
+    "target_revenue": 232500
+  },
+  {
+    "target_id": 28,
+    "month": "2024-04",
+    "branch_id": 2,
+    "target_revenue": 295800
+  },
+  {
+    "target_id": 29,
+    "month": "2024-05",
+    "branch_id": 2,
+    "target_revenue": 302600
+  },
+  {
+    "target_id": 30,
+    "month": "2024-06",
+    "branch_id": 2,
+    "target_revenue": 240100
+  },
+  {
+    "target_id": 31,
+    "month": "2024-07",
+    "branch_id": 2,
+    "target_revenue": 270300
+  },
+  {
+    "target_id": 32,
+    "month": "2024-08",
+    "branch_id": 2,
+    "target_revenue": 281700
+  },
+  {
+    "target_id": 33,
+    "month": "2024-09",
+    "branch_id": 2,
+    "target_revenue": 303800
+  },
+  {
+    "target_id": 34,
+    "month": "2024-10",
+    "branch_id": 2,
+    "target_revenue": 338900
+  },
+  {
+    "target_id": 35,
+    "month": "2024-11",
+    "branch_id": 2,
+    "target_revenue": 358500
+  },
+  {
+    "target_id": 36,
+    "month": "2024-12",
+    "branch_id": 2,
+    "target_revenue": 466400
+  },
+  {
+    "target_id": 37,
+    "month": "2025-01",
+    "branch_id": 2,
+    "target_revenue": 276000
+  },
+  {
+    "target_id": 38,
+    "month": "2025-02",
+    "branch_id": 2,
+    "target_revenue": 269500
+  },
+  {
+    "target_id": 39,
+    "month": "2025-03",
+    "branch_id": 2,
+    "target_revenue": 268700
+  },
+  {
+    "target_id": 40,
+    "month": "2025-04",
+    "branch_id": 2,
+    "target_revenue": 324600
+  },
+  {
+    "target_id": 41,
+    "month": "2025-05",
+    "branch_id": 2,
+    "target_revenue": 308400
+  },
+  {
+    "target_id": 42,
+    "month": "2025-06",
+    "branch_id": 2,
+    "target_revenue": 261000
+  },
+  {
+    "target_id": 43,
+    "month": "2025-07",
+    "branch_id": 2,
+    "target_revenue": 277700
+  },
+  {
+    "target_id": 44,
+    "month": "2025-08",
+    "branch_id": 2,
+    "target_revenue": 335000
+  },
+  {
+    "target_id": 45,
+    "month": "2025-09",
+    "branch_id": 2,
+    "target_revenue": 355600
+  },
+  {
+    "target_id": 46,
+    "month": "2025-10",
+    "branch_id": 2,
+    "target_revenue": 390000
+  },
+  {
+    "target_id": 47,
+    "month": "2025-11",
+    "branch_id": 2,
+    "target_revenue": 462500
+  },
+  {
+    "target_id": 48,
+    "month": "2025-12",
+    "branch_id": 2,
+    "target_revenue": 456500
+  },
+  {
+    "target_id": 49,
+    "month": "2024-01",
+    "branch_id": 3,
+    "target_revenue": 308300
+  },
+  {
+    "target_id": 50,
+    "month": "2024-02",
+    "branch_id": 3,
+    "target_revenue": 264000
+  },
+  {
+    "target_id": 51,
+    "month": "2024-03",
+    "branch_id": 3,
+    "target_revenue": 320200
+  },
+  {
+    "target_id": 52,
+    "month": "2024-04",
+    "branch_id": 3,
+    "target_revenue": 343500
+  },
+  {
+    "target_id": 53,
+    "month": "2024-05",
+    "branch_id": 3,
+    "target_revenue": 316000
+  },
+  {
+    "target_id": 54,
+    "month": "2024-06",
+    "branch_id": 3,
+    "target_revenue": 318300
+  },
+  {
+    "target_id": 55,
+    "month": "2024-07",
+    "branch_id": 3,
+    "target_revenue": 309400
+  },
+  {
+    "target_id": 56,
+    "month": "2024-08",
+    "branch_id": 3,
+    "target_revenue": 308000
+  },
+  {
+    "target_id": 57,
+    "month": "2024-09",
+    "branch_id": 3,
+    "target_revenue": 340700
+  },
+  {
+    "target_id": 58,
+    "month": "2024-10",
+    "branch_id": 3,
+    "target_revenue": 353100
+  },
+  {
+    "target_id": 59,
+    "month": "2024-11",
+    "branch_id": 3,
+    "target_revenue": 450300
+  },
+  {
+    "target_id": 60,
+    "month": "2024-12",
+    "branch_id": 3,
+    "target_revenue": 466200
+  },
+  {
+    "target_id": 61,
+    "month": "2025-01",
+    "branch_id": 3,
+    "target_revenue": 288200
+  },
+  {
+    "target_id": 62,
+    "month": "2025-02",
+    "branch_id": 3,
+    "target_revenue": 309600
+  },
+  {
+    "target_id": 63,
+    "month": "2025-03",
+    "branch_id": 3,
+    "target_revenue": 317600
+  },
+  {
+    "target_id": 64,
+    "month": "2025-04",
+    "branch_id": 3,
+    "target_revenue": 367800
+  },
+  {
+    "target_id": 65,
+    "month": "2025-05",
+    "branch_id": 3,
+    "target_revenue": 387600
+  },
+  {
+    "target_id": 66,
+    "month": "2025-06",
+    "branch_id": 3,
+    "target_revenue": 349100
+  },
+  {
+    "target_id": 67,
+    "month": "2025-07",
+    "branch_id": 3,
+    "target_revenue": 352400
+  },
+  {
+    "target_id": 68,
+    "month": "2025-08",
+    "branch_id": 3,
+    "target_revenue": 345800
+  },
+  {
+    "target_id": 69,
+    "month": "2025-09",
+    "branch_id": 3,
+    "target_revenue": 418800
+  },
+  {
+    "target_id": 70,
+    "month": "2025-10",
+    "branch_id": 3,
+    "target_revenue": 442600
+  },
+  {
+    "target_id": 71,
+    "month": "2025-11",
+    "branch_id": 3,
+    "target_revenue": 499100
+  },
+  {
+    "target_id": 72,
+    "month": "2025-12",
+    "branch_id": 3,
+    "target_revenue": 584800
+  },
+  {
+    "target_id": 73,
+    "month": "2024-01",
+    "branch_id": 4,
+    "target_revenue": 369800
+  },
+  {
+    "target_id": 74,
+    "month": "2024-02",
+    "branch_id": 4,
+    "target_revenue": 329400
+  },
+  {
+    "target_id": 75,
+    "month": "2024-03",
+    "branch_id": 4,
+    "target_revenue": 358400
+  },
+  {
+    "target_id": 76,
+    "month": "2024-04",
+    "branch_id": 4,
+    "target_revenue": 358800
+  },
+  {
+    "target_id": 77,
+    "month": "2024-05",
+    "branch_id": 4,
+    "target_revenue": 431300
+  },
+  {
+    "target_id": 78,
+    "month": "2024-06",
+    "branch_id": 4,
+    "target_revenue": 399100
+  },
+  {
+    "target_id": 79,
+    "month": "2024-07",
+    "branch_id": 4,
+    "target_revenue": 396900
+  },
+  {
+    "target_id": 80,
+    "month": "2024-08",
+    "branch_id": 4,
+    "target_revenue": 385400
+  },
+  {
+    "target_id": 81,
+    "month": "2024-09",
+    "branch_id": 4,
+    "target_revenue": 402500
+  },
+  {
+    "target_id": 82,
+    "month": "2024-10",
+    "branch_id": 4,
+    "target_revenue": 430100
+  },
+  {
+    "target_id": 83,
+    "month": "2024-11",
+    "branch_id": 4,
+    "target_revenue": 538500
+  },
+  {
+    "target_id": 84,
+    "month": "2024-12",
+    "branch_id": 4,
+    "target_revenue": 561800
+  },
+  {
+    "target_id": 85,
+    "month": "2025-01",
+    "branch_id": 4,
+    "target_revenue": 374800
+  },
+  {
+    "target_id": 86,
+    "month": "2025-02",
+    "branch_id": 4,
+    "target_revenue": 367800
+  },
+  {
+    "target_id": 87,
+    "month": "2025-03",
+    "branch_id": 4,
+    "target_revenue": 380900
+  },
+  {
+    "target_id": 88,
+    "month": "2025-04",
+    "branch_id": 4,
+    "target_revenue": 393300
+  },
+  {
+    "target_id": 89,
+    "month": "2025-05",
+    "branch_id": 4,
+    "target_revenue": 422200
+  },
+  {
+    "target_id": 90,
+    "month": "2025-06",
+    "branch_id": 4,
+    "target_revenue": 378800
+  },
+  {
+    "target_id": 91,
+    "month": "2025-07",
+    "branch_id": 4,
+    "target_revenue": 367200
+  },
+  {
+    "target_id": 92,
+    "month": "2025-08",
+    "branch_id": 4,
+    "target_revenue": 398100
+  },
+  {
+    "target_id": 93,
+    "month": "2025-09",
+    "branch_id": 4,
+    "target_revenue": 421500
+  },
+  {
+    "target_id": 94,
+    "month": "2025-10",
+    "branch_id": 4,
+    "target_revenue": 458100
+  },
+  {
+    "target_id": 95,
+    "month": "2025-11",
+    "branch_id": 4,
+    "target_revenue": 541900
+  },
+  {
+    "target_id": 96,
+    "month": "2025-12",
+    "branch_id": 4,
+    "target_revenue": 631000
+  },
+  {
+    "target_id": 97,
+    "month": "2024-01",
+    "branch_id": 5,
+    "target_revenue": 352800
+  },
+  {
+    "target_id": 98,
+    "month": "2024-02",
+    "branch_id": 5,
+    "target_revenue": 367500
+  },
+  {
+    "target_id": 99,
+    "month": "2024-03",
+    "branch_id": 5,
+    "target_revenue": 395400
+  },
+  {
+    "target_id": 100,
+    "month": "2024-04",
+    "branch_id": 5,
+    "target_revenue": 420900
+  },
+  {
+    "target_id": 101,
+    "month": "2024-05",
+    "branch_id": 5,
+    "target_revenue": 451000
+  },
+  {
+    "target_id": 102,
+    "month": "2024-06",
+    "branch_id": 5,
+    "target_revenue": 378000
+  },
+  {
+    "target_id": 103,
+    "month": "2024-07",
+    "branch_id": 5,
+    "target_revenue": 402400
+  },
+  {
+    "target_id": 104,
+    "month": "2024-08",
+    "branch_id": 5,
+    "target_revenue": 398200
+  },
+  {
+    "target_id": 105,
+    "month": "2024-09",
+    "branch_id": 5,
+    "target_revenue": 395600
+  },
+  {
+    "target_id": 106,
+    "month": "2024-10",
+    "branch_id": 5,
+    "target_revenue": 537700
+  },
+  {
+    "target_id": 107,
+    "month": "2024-11",
+    "branch_id": 5,
+    "target_revenue": 588700
+  },
+  {
+    "target_id": 108,
+    "month": "2024-12",
+    "branch_id": 5,
+    "target_revenue": 684400
+  },
+  {
+    "target_id": 109,
+    "month": "2025-01",
+    "branch_id": 5,
+    "target_revenue": 409300
+  },
+  {
+    "target_id": 110,
+    "month": "2025-02",
+    "branch_id": 5,
+    "target_revenue": 403000
+  },
+  {
+    "target_id": 111,
+    "month": "2025-03",
+    "branch_id": 5,
+    "target_revenue": 419500
+  },
+  {
+    "target_id": 112,
+    "month": "2025-04",
+    "branch_id": 5,
+    "target_revenue": 427600
+  },
+  {
+    "target_id": 113,
+    "month": "2025-05",
+    "branch_id": 5,
+    "target_revenue": 430500
+  },
+  {
+    "target_id": 114,
+    "month": "2025-06",
+    "branch_id": 5,
+    "target_revenue": 389000
+  },
+  {
+    "target_id": 115,
+    "month": "2025-07",
+    "branch_id": 5,
+    "target_revenue": 410600
+  },
+  {
+    "target_id": 116,
+    "month": "2025-08",
+    "branch_id": 5,
+    "target_revenue": 400400
+  },
+  {
+    "target_id": 117,
+    "month": "2025-09",
+    "branch_id": 5,
+    "target_revenue": 461200
+  },
+  {
+    "target_id": 118,
+    "month": "2025-10",
+    "branch_id": 5,
+    "target_revenue": 522800
+  },
+  {
+    "target_id": 119,
+    "month": "2025-11",
+    "branch_id": 5,
+    "target_revenue": 522700
+  },
+  {
+    "target_id": 120,
+    "month": "2025-12",
+    "branch_id": 5,
+    "target_revenue": 660700
+  },
+  {
+    "target_id": 121,
+    "month": "2024-01",
+    "branch_id": 6,
+    "target_revenue": 568000
+  },
+  {
+    "target_id": 122,
+    "month": "2024-02",
+    "branch_id": 6,
+    "target_revenue": 592400
+  },
+  {
+    "target_id": 123,
+    "month": "2024-03",
+    "branch_id": 6,
+    "target_revenue": 694000
+  },
+  {
+    "target_id": 124,
+    "month": "2024-04",
+    "branch_id": 6,
+    "target_revenue": 632400
+  },
+  {
+    "target_id": 125,
+    "month": "2024-05",
+    "branch_id": 6,
+    "target_revenue": 602000
+  },
+  {
+    "target_id": 126,
+    "month": "2024-06",
+    "branch_id": 6,
+    "target_revenue": 615900
+  },
+  {
+    "target_id": 127,
+    "month": "2024-07",
+    "branch_id": 6,
+    "target_revenue": 640700
+  },
+  {
+    "target_id": 128,
+    "month": "2024-08",
+    "branch_id": 6,
+    "target_revenue": 625200
+  },
+  {
+    "target_id": 129,
+    "month": "2024-09",
+    "branch_id": 6,
+    "target_revenue": 706600
+  },
+  {
+    "target_id": 130,
+    "month": "2024-10",
+    "branch_id": 6,
+    "target_revenue": 680200
+  },
+  {
+    "target_id": 131,
+    "month": "2024-11",
+    "branch_id": 6,
+    "target_revenue": 792700
+  },
+  {
+    "target_id": 132,
+    "month": "2024-12",
+    "branch_id": 6,
+    "target_revenue": 942400
+  },
+  {
+    "target_id": 133,
+    "month": "2025-01",
+    "branch_id": 6,
+    "target_revenue": 591700
+  },
+  {
+    "target_id": 134,
+    "month": "2025-02",
+    "branch_id": 6,
+    "target_revenue": 549100
+  },
+  {
+    "target_id": 135,
+    "month": "2025-03",
+    "branch_id": 6,
+    "target_revenue": 593500
+  },
+  {
+    "target_id": 136,
+    "month": "2025-04",
+    "branch_id": 6,
+    "target_revenue": 691000
+  },
+  {
+    "target_id": 137,
+    "month": "2025-05",
+    "branch_id": 6,
+    "target_revenue": 643600
+  },
+  {
+    "target_id": 138,
+    "month": "2025-06",
+    "branch_id": 6,
+    "target_revenue": 595200
+  },
+  {
+    "target_id": 139,
+    "month": "2025-07",
+    "branch_id": 6,
+    "target_revenue": 610200
+  },
+  {
+    "target_id": 140,
+    "month": "2025-08",
+    "branch_id": 6,
+    "target_revenue": 729200
+  },
+  {
+    "target_id": 141,
+    "month": "2025-09",
+    "branch_id": 6,
+    "target_revenue": 661300
+  },
+  {
+    "target_id": 142,
+    "month": "2025-10",
+    "branch_id": 6,
+    "target_revenue": 805900
+  },
+  {
+    "target_id": 143,
+    "month": "2025-11",
+    "branch_id": 6,
+    "target_revenue": 841800
+  },
+  {
+    "target_id": 144,
+    "month": "2025-12",
+    "branch_id": 6,
+    "target_revenue": 895800
+  },
+  {
+    "target_id": 145,
+    "month": "2024-01",
+    "branch_id": 7,
+    "target_revenue": 222200
+  },
+  {
+    "target_id": 146,
+    "month": "2024-02",
+    "branch_id": 7,
+    "target_revenue": 242800
+  },
+  {
+    "target_id": 147,
+    "month": "2024-03",
+    "branch_id": 7,
+    "target_revenue": 253900
+  },
+  {
+    "target_id": 148,
+    "month": "2024-04",
+    "branch_id": 7,
+    "target_revenue": 243900
+  },
+  {
+    "target_id": 149,
+    "month": "2024-05",
+    "branch_id": 7,
+    "target_revenue": 299000
+  },
+  {
+    "target_id": 150,
+    "month": "2024-06",
+    "branch_id": 7,
+    "target_revenue": 238400
+  },
+  {
+    "target_id": 151,
+    "month": "2024-07",
+    "branch_id": 7,
+    "target_revenue": 233800
+  },
+  {
+    "target_id": 152,
+    "month": "2024-08",
+    "branch_id": 7,
+    "target_revenue": 269200
+  },
+  {
+    "target_id": 153,
+    "month": "2024-09",
+    "branch_id": 7,
+    "target_revenue": 263400
+  },
+  {
+    "target_id": 154,
+    "month": "2024-10",
+    "branch_id": 7,
+    "target_revenue": 303500
+  },
+  {
+    "target_id": 155,
+    "month": "2024-11",
+    "branch_id": 7,
+    "target_revenue": 341900
+  },
+  {
+    "target_id": 156,
+    "month": "2024-12",
+    "branch_id": 7,
+    "target_revenue": 424100
+  },
+  {
+    "target_id": 157,
+    "month": "2025-01",
+    "branch_id": 7,
+    "target_revenue": 260300
+  },
+  {
+    "target_id": 158,
+    "month": "2025-02",
+    "branch_id": 7,
+    "target_revenue": 241600
+  },
+  {
+    "target_id": 159,
+    "month": "2025-03",
+    "branch_id": 7,
+    "target_revenue": 268400
+  },
+  {
+    "target_id": 160,
+    "month": "2025-04",
+    "branch_id": 7,
+    "target_revenue": 265700
+  },
+  {
+    "target_id": 161,
+    "month": "2025-05",
+    "branch_id": 7,
+    "target_revenue": 291600
+  },
+  {
+    "target_id": 162,
+    "month": "2025-06",
+    "branch_id": 7,
+    "target_revenue": 288300
+  },
+  {
+    "target_id": 163,
+    "month": "2025-07",
+    "branch_id": 7,
+    "target_revenue": 291600
+  },
+  {
+    "target_id": 164,
+    "month": "2025-08",
+    "branch_id": 7,
+    "target_revenue": 304500
+  },
+  {
+    "target_id": 165,
+    "month": "2025-09",
+    "branch_id": 7,
+    "target_revenue": 298900
+  },
+  {
+    "target_id": 166,
+    "month": "2025-10",
+    "branch_id": 7,
+    "target_revenue": 333800
+  },
+  {
+    "target_id": 167,
+    "month": "2025-11",
+    "branch_id": 7,
+    "target_revenue": 402300
+  },
+  {
+    "target_id": 168,
+    "month": "2025-12",
+    "branch_id": 7,
+    "target_revenue": 390000
+  },
+  {
+    "target_id": 169,
+    "month": "2024-01",
+    "branch_id": 8,
+    "target_revenue": 288900
+  },
+  {
+    "target_id": 170,
+    "month": "2024-02",
+    "branch_id": 8,
+    "target_revenue": 277100
+  },
+  {
+    "target_id": 171,
+    "month": "2024-03",
+    "branch_id": 8,
+    "target_revenue": 336900
+  },
+  {
+    "target_id": 172,
+    "month": "2024-04",
+    "branch_id": 8,
+    "target_revenue": 347800
+  },
+  {
+    "target_id": 173,
+    "month": "2024-05",
+    "branch_id": 8,
+    "target_revenue": 369200
+  },
+  {
+    "target_id": 174,
+    "month": "2024-06",
+    "branch_id": 8,
+    "target_revenue": 309800
+  },
+  {
+    "target_id": 175,
+    "month": "2024-07",
+    "branch_id": 8,
+    "target_revenue": 322200
+  },
+  {
+    "target_id": 176,
+    "month": "2024-08",
+    "branch_id": 8,
+    "target_revenue": 316600
+  },
+  {
+    "target_id": 177,
+    "month": "2024-09",
+    "branch_id": 8,
+    "target_revenue": 339900
+  },
+  {
+    "target_id": 178,
+    "month": "2024-10",
+    "branch_id": 8,
+    "target_revenue": 363600
+  },
+  {
+    "target_id": 179,
+    "month": "2024-11",
+    "branch_id": 8,
+    "target_revenue": 433800
+  },
+  {
+    "target_id": 180,
+    "month": "2024-12",
+    "branch_id": 8,
+    "target_revenue": 496600
+  },
+  {
+    "target_id": 181,
+    "month": "2025-01",
+    "branch_id": 8,
+    "target_revenue": 267000
+  },
+  {
+    "target_id": 182,
+    "month": "2025-02",
+    "branch_id": 8,
+    "target_revenue": 272300
+  },
+  {
+    "target_id": 183,
+    "month": "2025-03",
+    "branch_id": 8,
+    "target_revenue": 289900
+  },
+  {
+    "target_id": 184,
+    "month": "2025-04",
+    "branch_id": 8,
+    "target_revenue": 291200
+  },
+  {
+    "target_id": 185,
+    "month": "2025-05",
+    "branch_id": 8,
+    "target_revenue": 308000
+  },
+  {
+    "target_id": 186,
+    "month": "2025-06",
+    "branch_id": 8,
+    "target_revenue": 292400
+  },
+  {
+    "target_id": 187,
+    "month": "2025-07",
+    "branch_id": 8,
+    "target_revenue": 287200
+  },
+  {
+    "target_id": 188,
+    "month": "2025-08",
+    "branch_id": 8,
+    "target_revenue": 309900
+  },
+  {
+    "target_id": 189,
+    "month": "2025-09",
+    "branch_id": 8,
+    "target_revenue": 322200
+  },
+  {
+    "target_id": 190,
+    "month": "2025-10",
+    "branch_id": 8,
+    "target_revenue": 367700
+  },
+  {
+    "target_id": 191,
+    "month": "2025-11",
+    "branch_id": 8,
+    "target_revenue": 419100
+  },
+  {
+    "target_id": 192,
+    "month": "2025-12",
+    "branch_id": 8,
+    "target_revenue": 445600
+  },
+  {
+    "target_id": 193,
+    "month": "2024-01",
+    "branch_id": 9,
+    "target_revenue": 358600
+  },
+  {
+    "target_id": 194,
+    "month": "2024-02",
+    "branch_id": 9,
+    "target_revenue": 304800
+  },
+  {
+    "target_id": 195,
+    "month": "2024-03",
+    "branch_id": 9,
+    "target_revenue": 380400
+  },
+  {
+    "target_id": 196,
+    "month": "2024-04",
+    "branch_id": 9,
+    "target_revenue": 398700
+  },
+  {
+    "target_id": 197,
+    "month": "2024-05",
+    "branch_id": 9,
+    "target_revenue": 399700
+  },
+  {
+    "target_id": 198,
+    "month": "2024-06",
+    "branch_id": 9,
+    "target_revenue": 407800
+  },
+  {
+    "target_id": 199,
+    "month": "2024-07",
+    "branch_id": 9,
+    "target_revenue": 424800
+  },
+  {
+    "target_id": 200,
+    "month": "2024-08",
+    "branch_id": 9,
+    "target_revenue": 387400
+  },
+  {
+    "target_id": 201,
+    "month": "2024-09",
+    "branch_id": 9,
+    "target_revenue": 469500
+  },
+  {
+    "target_id": 202,
+    "month": "2024-10",
+    "branch_id": 9,
+    "target_revenue": 475200
+  },
+  {
+    "target_id": 203,
+    "month": "2024-11",
+    "branch_id": 9,
+    "target_revenue": 591500
+  },
+  {
+    "target_id": 204,
+    "month": "2024-12",
+    "branch_id": 9,
+    "target_revenue": 686200
+  },
+  {
+    "target_id": 205,
+    "month": "2025-01",
+    "branch_id": 9,
+    "target_revenue": 419700
+  },
+  {
+    "target_id": 206,
+    "month": "2025-02",
+    "branch_id": 9,
+    "target_revenue": 405300
+  },
+  {
+    "target_id": 207,
+    "month": "2025-03",
+    "branch_id": 9,
+    "target_revenue": 457100
+  },
+  {
+    "target_id": 208,
+    "month": "2025-04",
+    "branch_id": 9,
+    "target_revenue": 460500
+  },
+  {
+    "target_id": 209,
+    "month": "2025-05",
+    "branch_id": 9,
+    "target_revenue": 518900
+  },
+  {
+    "target_id": 210,
+    "month": "2025-06",
+    "branch_id": 9,
+    "target_revenue": 453600
+  },
+  {
+    "target_id": 211,
+    "month": "2025-07",
+    "branch_id": 9,
+    "target_revenue": 393200
+  },
+  {
+    "target_id": 212,
+    "month": "2025-08",
+    "branch_id": 9,
+    "target_revenue": 509500
+  },
+  {
+    "target_id": 213,
+    "month": "2025-09",
+    "branch_id": 9,
+    "target_revenue": 578600
+  },
+  {
+    "target_id": 214,
+    "month": "2025-10",
+    "branch_id": 9,
+    "target_revenue": 532100
+  },
+  {
+    "target_id": 215,
+    "month": "2025-11",
+    "branch_id": 9,
+    "target_revenue": 637400
+  },
+  {
+    "target_id": 216,
+    "month": "2025-12",
+    "branch_id": 9,
+    "target_revenue": 731200
+  },
+  {
+    "target_id": 217,
+    "month": "2024-01",
+    "branch_id": 10,
+    "target_revenue": 406000
+  },
+  {
+    "target_id": 218,
+    "month": "2024-02",
+    "branch_id": 10,
+    "target_revenue": 387600
+  },
+  {
+    "target_id": 219,
+    "month": "2024-03",
+    "branch_id": 10,
+    "target_revenue": 420900
+  },
+  {
+    "target_id": 220,
+    "month": "2024-04",
+    "branch_id": 10,
+    "target_revenue": 459700
+  },
+  {
+    "target_id": 221,
+    "month": "2024-05",
+    "branch_id": 10,
+    "target_revenue": 484300
+  },
+  {
+    "target_id": 222,
+    "month": "2024-06",
+    "branch_id": 10,
+    "target_revenue": 439100
+  },
+  {
+    "target_id": 223,
+    "month": "2024-07",
+    "branch_id": 10,
+    "target_revenue": 398000
+  },
+  {
+    "target_id": 224,
+    "month": "2024-08",
+    "branch_id": 10,
+    "target_revenue": 425600
+  },
+  {
+    "target_id": 225,
+    "month": "2024-09",
+    "branch_id": 10,
+    "target_revenue": 493600
+  },
+  {
+    "target_id": 226,
+    "month": "2024-10",
+    "branch_id": 10,
+    "target_revenue": 487300
+  },
+  {
+    "target_id": 227,
+    "month": "2024-11",
+    "branch_id": 10,
+    "target_revenue": 558800
+  },
+  {
+    "target_id": 228,
+    "month": "2024-12",
+    "branch_id": 10,
+    "target_revenue": 662900
+  },
+  {
+    "target_id": 229,
+    "month": "2025-01",
+    "branch_id": 10,
+    "target_revenue": 396500
+  },
+  {
+    "target_id": 230,
+    "month": "2025-02",
+    "branch_id": 10,
+    "target_revenue": 394400
+  },
+  {
+    "target_id": 231,
+    "month": "2025-03",
+    "branch_id": 10,
+    "target_revenue": 438000
+  },
+  {
+    "target_id": 232,
+    "month": "2025-04",
+    "branch_id": 10,
+    "target_revenue": 428100
+  },
+  {
+    "target_id": 233,
+    "month": "2025-05",
+    "branch_id": 10,
+    "target_revenue": 450600
+  },
+  {
+    "target_id": 234,
+    "month": "2025-06",
+    "branch_id": 10,
+    "target_revenue": 407100
+  },
+  {
+    "target_id": 235,
+    "month": "2025-07",
+    "branch_id": 10,
+    "target_revenue": 406000
+  },
+  {
+    "target_id": 236,
+    "month": "2025-08",
+    "branch_id": 10,
+    "target_revenue": 445200
+  },
+  {
+    "target_id": 237,
+    "month": "2025-09",
+    "branch_id": 10,
+    "target_revenue": 497700
+  },
+  {
+    "target_id": 238,
+    "month": "2025-10",
+    "branch_id": 10,
+    "target_revenue": 516700
+  },
+  {
+    "target_id": 239,
+    "month": "2025-11",
+    "branch_id": 10,
+    "target_revenue": 533800
+  },
+  {
+    "target_id": 240,
+    "month": "2025-12",
+    "branch_id": 10,
+    "target_revenue": 671200
+  }
+]
