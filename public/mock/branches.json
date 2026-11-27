@@ -1,0 +1,112 @@
+[
+  {
+    "branch_id": 1,
+    "country": "Egypt",
+    "city": "Cairo",
+    "region": "Middle East & Africa",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "manager": "Omar Hassan",
+    "employees": 85,
+    "opened_year": 2012
+  },
+  {
+    "branch_id": 2,
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "region": "Middle East & Africa",
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "manager": "Khalid Al-Otaibi",
+    "employees": 110,
+    "opened_year": 2014
+  },
+  {
+    "branch_id": 3,
+    "country": "UAE",
+    "city": "Dubai",
+    "region": "Middle East & Africa",
+    "lat": 25.2048,
+    "lng": 55.2708,
+    "manager": "Layla Mansour",
+    "employees": 95,
+    "opened_year": 2013
+  },
+  {
+    "branch_id": 4,
+    "country": "Germany",
+    "city": "Berlin",
+    "region": "Europe",
+    "lat": 52.52,
+    "lng": 13.405,
+    "manager": "Jonas Becker",
+    "employees": 130,
+    "opened_year": 2010
+  },
+  {
+    "branch_id": 5,
+    "country": "United Kingdom",
+    "city": "London",
+    "region": "Europe",
+    "lat": 51.5072,
+    "lng": -0.1276,
+    "manager": "Emma Clarke",
+    "employees": 140,
+    "opened_year": 2009
+  },
+  {
+    "branch_id": 6,
+    "country": "United States",
+    "city": "New York",
+    "region": "North America",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "manager": "Michael Turner",
+    "employees": 190,
+    "opened_year": 2008
+  },
+  {
+    "branch_id": 7,
+    "country": "Canada",
+    "city": "Toronto",
+    "region": "North America",
+    "lat": 43.6532,
+    "lng": -79.3832,
+    "manager": "Sophie Tremblay",
+    "employees": 90,
+    "opened_year": 2015
+  },
+  {
+    "branch_id": 8,
+    "country": "Brazil",
+    "city": "São Paulo",
+    "region": "Latin America",
+    "lat": -23.5505,
+    "lng": -46.6333,
+    "manager": "Rafael Souza",
+    "employees": 105,
+    "opened_year": 2016
+  },
+  {
+    "branch_id": 9,
+    "country": "India",
+    "city": "Mumbai",
+    "region": "Asia Pacific",
+    "lat": 19.076,
+    "lng": 72.8777,
+    "manager": "Priya Sharma",
+    "employees": 120,
+    "opened_year": 2017
+  },
+  {
+    "branch_id": 10,
+    "country": "Japan",
+    "city": "Tokyo",
+    "region": "Asia Pacific",
+    "lat": 35.6762,
+    "lng": 139.6503,
+    "manager": "Kenji Tanaka",
+    "employees": 100,
+    "opened_year": 2011
+  }
+]
